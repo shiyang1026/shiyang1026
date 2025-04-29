@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Yang Shi 👋
 
-<!--
-**shiyang1026/shiyang1026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Software Engineer in Test** based in **Shenzhen, China**, and a **fresh graduate in 2025**.
 
-Here are some ideas to get you started:
+💻 I specialize in **Python**, **Go**, and **JavaScript**, with strong interests in:
+- 🔍 Developing **automated testing tools**
+- 🌐 **Full-stack web development**
+- 🤖 Building and experimenting with **AI Agents**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always eager to learn, build, and contribute to meaningful tech projects.
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: isyangshi@gmail.com  
+- 🐦 Twitter: [@geniusfeisha](https://x.com/geniusfeisha)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+---
+
+Thanks for stopping by!
